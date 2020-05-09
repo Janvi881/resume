@@ -85,15 +85,18 @@ padding-top: 50px;
 
 .top-cloud {
   position: relative;
-  margin-left: 460px;
+  margin-left: 550px;
   margin-top: 50px;
   margin-bottom: 50px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 600px;
+  left: 500px;
   margin-bottom: 300px;
+  padding-top: 50px;
+  padding-right: 50px;
+  margin-right: 100px	
 }
 
 .mypic
