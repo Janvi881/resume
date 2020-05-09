@@ -143,7 +143,7 @@ padding-top: 50px;
 .btn {
 	font-weight:bold;
 	text-decoration:none;
-font-family: 'Montserrat', sans-serif;
+        font-family: 'Montserrat', sans-serif;
 	box-shadow:inset #ffffff 0px 5px 8px -1px,#d6d6d6 1px 3px 2px;
 	o-box-shadow:inset #ffffff 0px 5px 8px -1px,#d6d6d6 1px 3px 2px;
 	-moz-box-shadow:inset #ffffff 0px 5px 8px -1px,#d6d6d6 1px 3px 2px;
